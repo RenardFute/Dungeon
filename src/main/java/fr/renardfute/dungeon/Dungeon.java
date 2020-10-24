@@ -4,7 +4,6 @@ import fr.renardfute.dungeon.Floors.Floor;
 import fr.renardfute.dungeon.Utils.ArrayUtils;
 
 import java.awt.*;
-import java.sql.BatchUpdateException;
 
 public class Dungeon {
 
